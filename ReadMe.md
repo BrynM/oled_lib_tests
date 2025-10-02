@@ -13,6 +13,7 @@ project's other display (an actual set of four 8x8 LED matrices).
 ## Collated Results
 
 | Library  | PGMEM | BL PGMEM ▲ | SRAM | BL SRAM ▲ |
+|----------|-------|------------|------|-----------|
 | Baseline |  5160 |          0 |  185 |         0 |
 | SH1106   | 14910 |       9750 | 1514 |      1329 |
 | SSOLED   | 11302 |       6142 |  465 |       280 |
